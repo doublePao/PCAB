@@ -11,6 +11,7 @@
     <modules>
         <module>RegistrationCenter</module>
         <module>Common</module>
+        <module>Server</module>
     </modules>
 
     <dependencyManagement>

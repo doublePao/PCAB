@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PCAB.iml" filepath="$PROJECT_DIR$/.idea/PCAB.iml" />
       <module fileurl="file://$PROJECT_DIR$/RegistrationCenter/RegistrationCenter.iml" filepath="$PROJECT_DIR$/RegistrationCenter/RegistrationCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
     </modules>
   </component>
 </project>

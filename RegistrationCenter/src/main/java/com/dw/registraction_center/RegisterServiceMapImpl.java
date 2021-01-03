@@ -16,7 +16,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * @since 2021/01/02 21:24
  */
 public class RegisterServiceMapImpl implements RegisterService {
-  private static final Map<String, ResourceInfo> RESOURCE_INFO_MAP = new ConcurrentHashMap<>();
+  private static final Map<ResourceInfo, List<NetNode>> RESOURCE_INFO_MAP = new ConcurrentHashMap<>();
 
   @Override
   public List<NetNode> listAllNodes() {
